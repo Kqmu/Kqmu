@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kamu
+- 👋 Hi, I’m Kamu, or You can call me Rein :D
+I'm an custom Origin datapack maker, and a modpack developer in training!
 - 👀 I’m interested in Minecraft Modpack development
 - 🌱 I’m currently learning Base modpack development, Quests, Custom Crafting recipes.
 - 💞️ I’m looking to collaborate on Projects for Minecraft modpacks
